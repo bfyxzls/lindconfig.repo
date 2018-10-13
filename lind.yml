@@ -1,1 +1,2 @@
-version: 1
+spring:
+  profiles.include: svt-eureka, svt-rabbitmq
